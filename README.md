@@ -47,6 +47,7 @@ A instalação é feita baixando a source desse diretório
 - Após a instalação basta apenas executar o comando
 
 <hr>
+
 ## VIDEO PRÁTICO
 
 <a href="https://youtu.be/Zuh3pZFV6l0"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
